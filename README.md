@@ -1,6 +1,6 @@
 # Data-Visualization-airport-have-the-most-delays-
 
-I will let the map and graph communicate instead of words. Feel free to download the CVS files and the Power BI file.
+I will let the map and graph communicate instead of words. Feel free to download the raw data & the Power BI file where I built the visualization.
 
 
 ![Map](https://user-images.githubusercontent.com/52235733/181302642-ed54be5c-f0ac-4e95-a26a-2feb3b291b52.JPG)
