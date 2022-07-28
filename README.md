@@ -21,11 +21,11 @@ Again, I decided to dive deeper to if those delay ( weather delay ) vary by time
 
 ![Weather 4 to 6](https://user-images.githubusercontent.com/52235733/181623892-16929b60-659a-4670-8497-f57d3bdfdebc.JPG)
 
-#from July to Septamber 
+# from July to Septamber 
 
 ![Weather 7 to 9](https://user-images.githubusercontent.com/52235733/181623965-8633b98d-1695-453b-ae7b-9191ffa69c91.JPG)
 
-#from Oct to Dec
+# from Oct to Dec
 
 ![Weather 9 to 12](https://user-images.githubusercontent.com/52235733/181624025-2b5142d1-2fe1-4714-865c-5c564bb0d368.JPG)
 
